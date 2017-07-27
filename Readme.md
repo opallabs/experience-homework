@@ -13,4 +13,6 @@ The scope of this can get out of hand very quickly, so please don't feel the nee
 
 Ideally this would be built in React and Redux, but as with anything else, use the best tool for the job at hand.
 
+To get started, simply clone or fork this repo and start committing.
+
 Thanks a lot, and please let us know if you have any questions or concerns. We can't wait to see what you produce.
